@@ -11,8 +11,8 @@ def fizzbuzz(num)
     elsif num/2 == 0
       puts "FizzBuzz"
 
-    else 
+    else
       return "nil"
-      
+
 
 end
