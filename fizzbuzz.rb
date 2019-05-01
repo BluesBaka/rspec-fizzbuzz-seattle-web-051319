@@ -12,7 +12,7 @@ def fizzbuzz(num)
       puts "FizzBuzz"
 
     else
-      return "nil"
+      return nil
     end
 
 end
